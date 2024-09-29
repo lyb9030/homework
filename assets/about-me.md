@@ -7,11 +7,7 @@ IT쪽으로는 아무것도 모르는 초보 시니어 이영범 입니다. <BR>
 
 ## Character
 
-<img src="https://img.shields.io/badge/ISFP-tomato?logo=<ISFP>"> 
-<img src="https://img.shields.io/badge/ISC-gray?logo=<ISC>"> 
-<img src="https://img.shields.io/badge/긍정적-ffd33d?logo=<긍정적>">
-<img src="https://img.shields.io/badge/노력파-green?logo=<노력파>">
-<img src="https://img.shields.io/badge/꾸준함-blue?logo=<꾸준함>">
+<img src="./md/Character.png">
 
 ## STUDY
 
