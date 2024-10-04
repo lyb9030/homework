@@ -7,7 +7,7 @@ IT쪽으로는 아무것도 모르는 초보 시니어 이영범 입니다. <BR>
 
 ## Character
 
-<img src="./md/Character.png">
+<img src="./images/Character.png">
 
 ## STUDY
 
