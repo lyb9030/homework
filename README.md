@@ -12,3 +12,9 @@
 float를 사용하여 레이아웃 구현 <br>
 -> [Float 구현 바로가기](./avatars/avatars.html) <br>
 -> [과제 수행에 대한 설명](./md/avatars.md)
+
+## 3주차 과제 - 2024.10.13
+
+네이버 로그인 이미지 화면 만들기<br>
+-> [로그인 이미지 화면 바로가기](./login/login.html)<br>
+-> [과제 수행에 대한 설명](./md/login.md)

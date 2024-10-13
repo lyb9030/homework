@@ -1,0 +1,67 @@
+* {
+  color: #121212;
+  font-size: 1rem;
+}
+
+/* 상단 네이버 로고 */
+h1 {
+  font-size: 2rem;
+  color: #03cf5d;
+  text-align: center;
+}
+
+/* 로그인 전체 화면 */
+.naver_login {
+  /* background-color: aqua; */
+}
+
+/* 로그인 정보 입력 */
+.user-id,
+.user-pw {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+/* 로그인 클릭 화면 */
+.login_click {
+  width: 100%;
+  padding: 10px;
+  background-color: #00c73c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* 로그인 상태유지 체크박스 */
+input[type="checkbox"] {
+  width: 1.5rem;
+  height: 1.5rem;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  appearance: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.login_checkbox_group {
+  margin-top: 100px;
+}
+
+/* 로그인 상태유지 체크박스 클릭시 변경 */
+input[type="checkbox"]:checked {
+  background: #32e732;
+  border: none;
+}
+
+/* 반응형 구현 */
+body {
+  /* 모바일 디스플레이 */
+  @media (min-width: 767px) {
+  }
+
+  /* 데스크탑 디스플레이 */
+  @media (min-width: 768px) {
+  }
+}
